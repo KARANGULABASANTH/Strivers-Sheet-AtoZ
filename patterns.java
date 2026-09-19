@@ -1,6 +1,6 @@
 // 6
 // import java.util.*;
-// class day1{
+// class patterns{
 //     public static void main(String args[])
 //     {
 //         Scanner sc=new Scanner(System.in);
@@ -23,7 +23,7 @@
 //11)
 
 // import java.util.*;
-// class day1{
+// class patterns{
 //     public static void main(String args[])
 //     {
 //         Scanner sc=new Scanner(System.in);
@@ -52,7 +52,7 @@
 //12)
 
 // import java.util.*;
-// class day1{
+// class patterns{
 //     public static void main(String args[])
 //     {
 //         Scanner sc=new Scanner(System.in);
@@ -82,7 +82,7 @@
 //13)
 
 // import java.util.*;
-// class day1{
+// class patterns{
 //     public static void main(String args[])
 //     {
 //         int n=1;
@@ -105,28 +105,28 @@
 
 //21)
 
-import java.util.*;
-class day1{
-    public static void main(String args[])
-    {
-        Scanner s=new Scanner(System.in);
-        System.out.println("Enter a number");
-        int n=s.nextInt();
-        for (int i=1;i<=n;i++)
-        {
-            for (int j=1;j<=n;j++)
-            {
-                if (i==1||j==1||i==n||j==n)
-                {
-                    System.out.print("*"+" ");
-                }
-                else 
-                {
-                    System.out.print("  ");
-                }
-            }
-            System.out.println();
-        }
-        s.close();
-    }
-}
+// import java.util.*;
+// class patterns{
+//     public static void main(String args[])
+//     {
+//         Scanner s=new Scanner(System.in);
+//         System.out.println("Enter a number");
+//         int n=s.nextInt();
+//         for (int i=1;i<=n;i++)
+//         {
+//             for (int j=1;j<=n;j++)
+//             {
+//                 if (i==1||j==1||i==n||j==n)
+//                 {
+//                     System.out.print("*"+" ");
+//                 }
+//                 else 
+//                 {
+//                     System.out.print("  ");
+//                 }
+//             }
+//             System.out.println();
+//         }
+//         s.close();
+//     }
+// }
