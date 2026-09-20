@@ -1,5 +1,5 @@
 // import java.util.*;
-// class day3{
+// class Maths{
 //     public static void main(String args[])
 //     {
 //         Scanner sc=new Scanner(System.in);
@@ -25,7 +25,7 @@
 //    Armstrong Number
 
 // import java.util.*;
-// class day3{
+// class Maths{
 //     public static void main(String args[])
 //     {
 //         Scanner sc=new Scanner(System.in);
@@ -56,7 +56,7 @@
 
 //      Prime Number 
 
-// class Solution {
+// class Maths{
 //     static boolean isPrime(int n) {
 //         int count=0;
 //         for (int i=1;i<=n;i++)
@@ -82,7 +82,7 @@
 
 //   Divisoprs of a number 
 
-// class Solution {
+// class Maths{
 //     public ArrayList<Integer> getDivisors(int n) {
 //         // int a[]=new int[n];
 //         ArrayList<Integer>a=new ArrayList<Integer>();
