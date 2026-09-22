@@ -1,5 +1,5 @@
 
-    Spiral matrix
+   # Spiral matrix
 class Solution:
     def spiralOrder(self, matrix: list[list[int]]) -> list[int]:
         self.matrix=matrix
@@ -27,7 +27,7 @@ class Solution:
 
 
 
-          Majority element 
+      #    Majority element 
 
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
@@ -44,7 +44,7 @@ class Solution:
         return key
 
 
-     Leader elemnet in array
+  #   Leader elemnet in array
 
 n=int(input("Enter a number"))
 nums=list(map(int,input("Enter list").split()))
@@ -56,7 +56,7 @@ li.append(nums[len(nums)-1])
 print(li)
 
 
-  SET MATRIX ZERO
+ # SET MATRIX ZERO
 
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:
